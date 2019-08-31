@@ -12,10 +12,11 @@ const globalStyles = createGlobalStyle`
   }
   body{
     font-family: Roboto;
-    font-size:14px;
+    font-size:18px;
     background:rgba(20,20,20,1);
     color:white;
-    padding-top: 50px;
+    padding-top: 80px;
+    padding-left: 20px;    
   }
 `;
 
