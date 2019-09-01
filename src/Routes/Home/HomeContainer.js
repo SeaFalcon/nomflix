@@ -29,7 +29,7 @@ export default class extends Component {
       } = await moviesApi.popular();
 
       // console.log("try");
-      //throw Error();
+      // throw Error();
 
       this.setState({
         nowPlaying,
